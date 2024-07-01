@@ -174,6 +174,4 @@ public class Ahorcado {
         return victoria ;
     }
 
-
-
 }
